@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Revise ACA\\dev-project-fullstack\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\Revise ACA\\dev-project-fullstack\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "d:\\Revise ACA\\dev-project-fullstack\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\Revise ACA\\dev-project-fullstack\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Revise ACA\\dev-project-fullstack\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\Revise ACA\\dev-project-fullstack\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "d:\\Revise ACA\\dev-project-fullstack\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\Revise ACA\\dev-project-fullstack\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "d:\\Revise ACA\\dev-project-fullstack\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "D:\\Revise ACA\\dev-project-fullstack\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
